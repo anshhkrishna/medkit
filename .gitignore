@@ -36,3 +36,10 @@ dist/
 # Other
 *.log
 *.tmp
+
+# python
+__pycache__/
+*.pyc
+env/
+.venv/
+venv/

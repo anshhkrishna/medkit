@@ -1,0 +1,2 @@
+# local client only. runtime deps are declared in app.py via modal.Image.pip_install
+modal==1.3.2
